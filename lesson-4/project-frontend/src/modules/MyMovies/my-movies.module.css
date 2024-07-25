@@ -1,0 +1,10 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    gap: 30px;
+}
+
+.block {
+    border: 1px solid;
+    padding: 15px;
+}
